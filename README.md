@@ -31,13 +31,7 @@ Evaluating a VQA model correctly is a difficult problem. Testing sets always sha
 However, the correct evaluation with the out-of-distribution setup is still challenging because it does not match the usual assumptions made in machine learning. 
 Also, the data-set creation is a challenging problem. It is hard to gather enough out-of-distribution data that are different from the training set.
 
-	
-RESOURCE LINKS:	
 
-1.https://sanghani.cs.vt.edu/research-project/visual-question-answering-vqa/
-2.https://cdancette.fr/2020/11/21/overview-bias-reductions-vqa/
-3.https://www.tutorialspoint.com/time_series/time_series_lstm_model.htm#:~:text=It%20is%20special%20kind%20of,layers%20interacting%20with%20each%20other.
-4.https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0639-9/figures/
 
 
 ![image](https://user-images.githubusercontent.com/113282545/208770468-4d840948-a861-4c12-816e-a277ba446378.png)
@@ -55,7 +49,13 @@ RESOURCE LINKS:
 
 
 
+	
+RESOURCE LINKS:	
 
+1.https://sanghani.cs.vt.edu/research-project/visual-question-answering-vqa/
+2.https://cdancette.fr/2020/11/21/overview-bias-reductions-vqa/
+3.https://www.tutorialspoint.com/time_series/time_series_lstm_model.htm#:~:text=It%20is%20special%20kind%20of,layers%20interacting%20with%20each%20other.
+4.https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0639-9/figures/
 
 
 
